@@ -8,3 +8,5 @@
 все файлы в текущей папке и вложенных с именами override.tf, override.tf.json
 все файлы в текущей папке и вложенных с окончанием _override.tf, _override.tf.json
 все файлы в текущей папке и вложенных с именами .terraformrc, terraform.rc
+НОВАЯ СТРОКА
+
